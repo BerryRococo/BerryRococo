@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=CoderBerryRabbit&show_icons=true&hide_border=true&theme=synthwave">
+<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=BerryRococo&show_icons=true&hide_border=true&theme=synthwave">
